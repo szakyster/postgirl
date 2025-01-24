@@ -1,0 +1,21 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/packages
+/.vs
+**/bin
+**/obj
+/build
+
+*.cache
+*.dll
+*.pdb
+*.suo
+*scc
+*.user
+~*
+/src/.vs
+/src/*/.scannerwork/*
+**/.sonarqube/*
+appsettings.local.json
